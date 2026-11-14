@@ -1,4 +1,4 @@
-## Question: Implement Binary Search.
+## Question: Implement Binary Search
 
 ### Given Problem
 Given a sorted array A of size N and an integer target K, implement Binary Search to find the target K in the array.
