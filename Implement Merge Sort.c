@@ -1,4 +1,4 @@
-## Question: Implement Merge Sort
+## Question: Implement Merge Sort.
 
 ### Given Problem
 Given an array of size N, implement the Merge Sort algorithm to sort the array in ascending order.
