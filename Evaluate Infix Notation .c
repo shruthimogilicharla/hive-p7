@@ -1,4 +1,4 @@
-## Evaluate Infix Notation – THE HIVE
+## Evaluate Infix Notation – THE HIVE.
 
 ### Problem
 Given a mathematical expression in infix notation, evaluate it and print its result.
