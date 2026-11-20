@@ -1,4 +1,4 @@
-## Evaluate Postfix Notation – THE HIVE
+## Evaluate Postfix Notation – THE HIVE.
 
 ### Problem
 Given a mathematical expression in postfix notation, evaluate the expression and print its result.
